@@ -1,0 +1,1526 @@
+  FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */   FILE*fp;
+       fp=fopen("localfile","rb");// localfile文件名       
+       fseek(fp,0L,SEEK_END); /* 定位到文件末尾 */
+　　flen=ftell(fp); /* 得到文件大小 */
+　　p=(char *)malloc(flen+1); /* 根据文件大小动态分配内存空间 */
+　　if(p==NULL)
+　　{
+　　fclose(fp);
+　　return 0;
+　　}
+　　fseek(fp,0L,SEEK_SET); /* 定位到文件开头 */
+　　fread(p,flen,1,fp); /* 一次性读取全部文件内容 */
+　　p[flen]=0; /* 字符串结束标志 */ 
+p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */ p[flen]=0; /* 字符串结束标志 */
